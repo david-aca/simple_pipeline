@@ -1,6 +1,6 @@
 # simple_pipeline
 
-Run for inference: python run_pipeline.py
+**Run for inference: python run_pipeline.py**
 
 --model [Model type]
 --preprocessor [Preprocessor type]
@@ -8,7 +8,7 @@ Run for inference: python run_pipeline.py
 --inference=True
 --predictions_path='predictions.json'
 
-Run for training: python run_pipeline.py
+**Run for training: python run_pipeline.py**
 
 --model [Model type]
 --preprocessor [Preprocessor type]
